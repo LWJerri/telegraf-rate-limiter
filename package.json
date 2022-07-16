@@ -9,9 +9,9 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "tsc",
-    "prestart": "npm run build",
+    "prestart": "pnpm run build",
     "start": "node dist/test.js",
-    "prepublish": "npm run build"
+    "prepublish": "pnpm run build"
   },
   "engines": {
     "node": ">= 12"
