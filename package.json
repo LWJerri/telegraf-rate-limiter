@@ -1,6 +1,6 @@
 {
   "name": "@lwjerri/telegraf-rate-limiter",
-  "version": "2.0.0.1",
+  "version": "2.0.1",
   "author": "LWJerri",
   "description": "Simple message rate limiter for telegraf.",
   "license": "MIT",
