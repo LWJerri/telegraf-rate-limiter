@@ -11,7 +11,9 @@ Multilingual utilities for [telegraf](https://github.com/telegraf/telegraf/).
 ## Installation
 
 NPN: `npm i @lwjerri/telegraf-rate-limiter`.
+
 PNPM: `pnpm add @lwjerri/telegraf-rate-limiter`.
+
 YARN: `yarn install @lwjerri/telegraf-rate-limiter`.
 
 ## Use
