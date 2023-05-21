@@ -21,7 +21,7 @@
     "telegraf": "^4.11.2"
   },
   "devDependencies": {
-    "@types/node": "^18.11.17",
+    "@types/node": "^20.2.3",
     "prettier": "^2.8.1",
     "rimraf": "^4.0.4",
     "ts-node": "^10.9.1",
